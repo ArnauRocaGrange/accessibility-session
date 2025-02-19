@@ -2,12 +2,14 @@
 
 The project contains a html file with many accessibility errors. With every step the idea is to focus in one type of accessibility error and fix it. 
 
-To run the project you need to install python
+To run the project you need to install python:
+
 brew install python
 
-to execute a http server (to run the automated tests)
+to execute a http server (to run the automated tests):
 
 python3 -m http.server
+
 (execute this in the folder)
 
 
@@ -15,14 +17,16 @@ python3 -m http.server
 ## Exercises
 ### 0. Language
 
-The focus of this exercise is to improve the accessibility of the images.
+The focus of this exercise is to improve the accessibility of the speech when reading the page
 
 ### 1. Images
 
 The focus of this exercise is to improve the accessibility of the images. To do this you have to check with the screen reader the accessibity of the
 different images and decide what are the errors that need to be fixed.
 
-There are 3 errors
+There are 3 errors.
+
+check this page to write good alt texts -> https://accessibility.huit.harvard.edu/describe-content-images
 
 ### 2. Headings
 
